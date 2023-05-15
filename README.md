@@ -24,5 +24,5 @@
 ---
   
 <div>
-  <a href="https://jordanportafoliodeevidencias.com/proyectospersonales/loginpage.html"><h3>Ir a la página</h3></a>
+  <h3><a href="https://jordanportafoliodeevidencias.com/proyectospersonales/loginpage.html">Ir a página</a></h3>
 </div>
