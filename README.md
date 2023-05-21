@@ -16,7 +16,6 @@
   <ul>
     <li>Animación</li>
     <li>Animación al hacer hover</li>
-    <li>Diseño adaptatible</li>
     <li>Codigo eficiente y sencillo de entender</li>
   </ul>
 <div>
