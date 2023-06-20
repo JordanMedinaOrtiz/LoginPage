@@ -6,16 +6,15 @@
 ---
 <div align="center">
   <h3>Lenguajes Utilizados:</h3>
-  <img src="https://github.com/vorillaz/devicons/blob/master/!PNG/html5.png">
-  <img src="https://github.com/vorillaz/devicons/blob/master/!PNG/css3.png">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" width="40px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS3" title="CSS3" width="40px">
 </div>
     
 ---
 <div>
   <h3 align="center">Lo más desatacable: </div>
   <ul>
-    <li>Animación</li>
-    <li>Animación al hacer hover</li>
+    <li>Animaciónes</li>
     <li>Codigo eficiente y sencillo de entender</li>
   </ul>
 <div>
